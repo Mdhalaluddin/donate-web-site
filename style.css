@@ -1,0 +1,15 @@
+h1,p{
+    padding-top: 50px ;
+    text-align: center;
+    color: white;
+}
+section{
+    margin: 50px;
+}
+.frst-manu{
+    
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
