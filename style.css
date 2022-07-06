@@ -125,15 +125,69 @@ h1{
     text-align: center;
     color: rgba(69, 71, 71, 0.422);
   }
-  .donate-button2{
-    text-align: center;
-    font-size: 20px;
-    padding: 15px;
-    width: 100px;
-    background-color: rgb(220, 18, 18);
+ 
+.donate-button2{
+    padding: 18px 20px;
+    background-color: #e60909;
+    margin: 10px;
+    font-size: 10px;
     color: white;
-    border: none;
-    margin-bottom: 50px ;
+    border: 1px solid none;
+    text-align: center;
 }
-
+.our-donate{
+    text-align: center;
+    margin: 100px 300px 0px 300px;
+}
+.sector{
+    margin-top: 50px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sector1{
+    width: 300px;
+    height: 200px;
+    border: 1px solid gray;
+    background-color:#2E8B57;
+    margin: 10px;
+    padding: 30px 20px 20px 20px;
+    border: none;
+    transition:  .8ms;
+}
+.sector1:hover{
+    border: 2px solid rgb(216, 0, 72);
+    margin-top: 0px;
+}
+.sector2{
+    width: 300px;
+    height: 200px;
+    border: 1px solid gray;
+    background-color:  #F0F8FF;
+    margin: 10px;
+    padding: 30px 20px 20px 20px;
+    border: none;
+    transition:  .8ms;
+}
+.sector2:hover{
+    border: 2px solid rgb(20, 25, 22);
+    margin-top: 0px;
+}
+.sector3{
+    width: 300px;
+    height: 200px;
+    border: 1px solid gray;
+    background-color: #F0E68C;
+    margin: 10px;
+    padding: 30px 20px 20px 20px;
+    border: none;
+    transition:  .8ms;
+}
+.sector3:hover{
+    border: 2px solid rgb(25, 0, 216);
+    margin-top: 0px;
+}
+.food-icons{
+    text-align: left;
+}
 
