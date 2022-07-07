@@ -1,12 +1,12 @@
 font-family: 'Macondo', cursive;
 font-family: 'Noto Sans', sans-serif;
-.cover-image{
-    background-image: url(images/donation6.jpg);
+.section-one{
+    background-image: url(images/donation0.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 80%;
-    height: 60vh;
-    padding: 10%;
+    height: 100vh;
+    width: 100%;
+    margin: 0%;
 }
 section{
     margin: 10px;
@@ -232,14 +232,25 @@ h2{
     padding: 0px 320px 0px 320px;
 }
 .subscribe-box{
-width: 80%;
-  height: 150px;
-  padding: 20px 20px;
+    text-align: center;
+    width: 40%;
+  height: 100px;
+  padding: 12px 20px;
   box-sizing: border-box;
-  border: 2px solid none;
+  border: 2px solid #ccc;
   border-radius: 4px;
-  background-color: rgb(171, 35, 85)
-  font-size: 18px;
+  background-color: #FAEBD7;
+  font-size: 16px;
+  resize: none;
+  margin-left: 400px;
+  border: none;
+}
+button{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 10px 0px 30px 0px;
+    background-color: tomato;
+    border: none;
 }
 footer{
     background-color: black;
