@@ -12,6 +12,7 @@ font-family: 'Noto Sans', sans-serif;
     height: 60vh;
     padding: 10%;
     margin-top: 0% 0% 0% 0%;
+    filter: blur(8%);
 }
 section{
     margin: 10px;
