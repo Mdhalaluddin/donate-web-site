@@ -1,3 +1,5 @@
+font-family: 'Macondo', cursive;
+font-family: 'Noto Sans', sans-serif;
 .cover-image{
     background-image: url(images/donation5.jpg);
     background-repeat: no-repeat;
@@ -127,14 +129,18 @@ h1{
   }
  
 .donate-button2{
-    text-decoration: none;
+    text-justify: auto;
+    text-align: center;
+    border: none;
     padding: 10px 20px;
-    font-size: 10px;
+    font-size: 18px;
     color: white;
     color: solid;
     border: 1px solid none;
-    text-align: center;
     background-color: red;
+    padding-top: 10px;
+    margin-left: 550px;
+    margin-top: 10px;
 }
 .our-donate{
     text-align: center;
@@ -205,17 +211,54 @@ h1{
 .contribute{
     text-decoration: none;
     background-color: #e60909;
-    padding: 10px 40px;
+    padding: 10px 30px;
     border: none;
+    margin-left: 270px;
+    font-size: 18px;
+    
 
 }
 h2{
     text-align: center;
     font-weight: bold;
     font-size: 40px;
-    padding: 0px 40px 0px 40px;
+    padding: 0px 60px 0px 60px;
 }
 .p-tag{
     text-align: center;
     padding: 0px 40px 0px 40px;
+}
+.p-tag2{
+    text-align: center;
+    padding: 0px 320px 0px 320px;
+}
+.subscribe-box{
+width: 80%;
+  height: 150px;
+  padding: 20px 20px;
+  box-sizing: border-box;
+  border: 2px solid none;
+  border-radius: 4px;
+  background-color: rgb(171, 35, 85)
+  font-size: 18px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px 0px 0px 0px;
+    margin-top: 15px;
+    height: 100px;
+}
+.p-tag3{
+    background-size: cover;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+.footer-tag{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: tomato;
 }
