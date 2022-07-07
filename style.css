@@ -1,7 +1,7 @@
 font-family: 'Macondo', cursive;
 font-family: 'Noto Sans', sans-serif;
 .cover-image{
-    background-image: url(images/donation5.jpg);
+    background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 80%;
@@ -129,7 +129,6 @@ h1{
   }
  
 .donate-button2{
-    text-justify: auto;
     text-align: center;
     border: none;
     padding: 10px 20px;
